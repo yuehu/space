@@ -2,6 +2,8 @@
 
 Add space between English and CJK.
 
+[![Build Status](https://travis-ci.org/yuehu/space.png?branch=master)](https://travis-ci.org/yuehu/space)
+
 ## Installation
 
 Install with [component(1)](http://component.io):
