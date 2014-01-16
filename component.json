@@ -1,0 +1,16 @@
+{
+  "name": "space",
+  "repo": "yuehu/space",
+  "description": "Add space between English and CJK.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
