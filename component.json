@@ -2,7 +2,7 @@
   "name": "space",
   "repo": "yuehu/space",
   "description": "Add space between English and CJK.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [],
   "dependencies": {},
   "development": {
