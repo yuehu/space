@@ -1,0 +1,26 @@
+{
+  "name": "autospace",
+  "version": "0.1.0",
+  "description": "Auto space between CJK and latin characters.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuehu/space.git"
+  },
+  "keywords": [
+    "typography",
+    "space"
+  ],
+  "author": "Hsiaoming Yang <me@lepture.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuehu/space/issues"
+  },
+  "homepage": "https://github.com/yuehu/space#readme"
+}
